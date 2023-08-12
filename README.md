@@ -1,2 +1,2 @@
 # StackTech
-A program to perform basic calculations on composite laminates, using the Classical Lamination Theory.
+A software for preliminary analysis of composite plates, using the Classical Lamination Theory.
